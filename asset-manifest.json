@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo-overlay/static/css/main.520c38ed.css",
+    "main.js": "/todo-overlay/static/js/main.60330d3f.js",
+    "index.html": "/todo-overlay/index.html",
+    "main.520c38ed.css.map": "/todo-overlay/static/css/main.520c38ed.css.map",
+    "main.60330d3f.js.map": "/todo-overlay/static/js/main.60330d3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.520c38ed.css",
+    "static/js/main.60330d3f.js"
+  ]
+}
